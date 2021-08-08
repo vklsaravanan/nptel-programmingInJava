@@ -5,8 +5,12 @@ Scanner s = new Scanner(System.in);
        double radius= s.nextDouble();
        double perimeter;
        double area;
+       
+       
         
-///////// just copy code given below ///////
+// Ans given below
+
+
 
 if(radius<=0){
 	System.out.println(" please enter non zero positive number ");
@@ -16,6 +20,12 @@ else{
 	System.out.print(area =Math.PI*radius*radius);
 }
 
-/////////////////////////////////////////////
 
-}}
+
+
+
+
+
+
+ }
+}
