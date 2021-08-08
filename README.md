@@ -2,11 +2,11 @@
 Hello future programmers welcome to README file
 *Click the CODE in this page to get your Answer codes*
 
-QN  : HOW TO USE THIS CODES ON NPTEL
+QN  : HOW TO USE THIS CODES ON NPTEL                                    
 ANS : READ BELOW MENTIONED STEPS
-
+                                               
 step 1 :
-   Click the code file you need
+   Click the code file you need                                    
    EX - if you need week1 1st assignment you
         you click week1_assignment_01
 step 2 :
