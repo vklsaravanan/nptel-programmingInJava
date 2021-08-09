@@ -6,8 +6,8 @@ QN  : HOW TO USE THIS CODES ON NPTEL
 ANS : READ BELOW MENTIONED STEPS
                                                
 step 1 :
-   Click the code file you need                                    
-   EX - if you need week1 1st assignment you
+   Click the code file you need                                                    
+   EX - if you need week1 1st assignment you                   
         you click week1_assignment_01                               
 step 2 :
    Copying code
