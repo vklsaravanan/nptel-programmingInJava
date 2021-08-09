@@ -14,27 +14,27 @@ public class Exercise1_4 {
        
       //Answer given below for NPTEL 
 ...............................................................................       
-       
-		// Finding digits in given number using while loop
+     // Finding digits in given number using while loop
  
-               int temp =n;
-		       while(temp>0) {    
-		    	   temp/=10;
-		    	   noOfDigits++;  }
+           int temp =n
+	   while(temp>0) {    
+		   temp/=10;
+	       noOfDigits++;  }
              
-		      temp=n;          
+		 temp=n;          
 	   //Using while loop check the number is Armstrong or not
-			  while(temp>0){           
-		    	   result=temp%10; 
-		    	   total+=Math.pow(result, noOfDigits);		    	   
-                   temp/=10; } 
+	   while(temp>0){           
+		    result=temp%10; 
+	        total+=Math.pow(result, noOfDigits);		    	   
+            temp/=10; } 
 		       
 		      if(total==n) {result=1; }  
  
 		      else { result=0; }         
 
 		 
-			  System.out.print(result);
+			  System.out.print(result);  
+		
    
   ...............................................................................
 		
