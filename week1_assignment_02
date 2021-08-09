@@ -1,7 +1,9 @@
 Week 1 : Programming Assignment 2 
 
-Complete the code segment to find the largest among three numbers x,y, and z. You should use if-then-else construct in Java.
+Complete the code segment to find the largest among three numbers x,y, and z. 
+You should use if-then-else construct in Java.
 
+...............................................................................
 
 import java.util.Scanner;  
 public class Exercise1_2 {
@@ -14,7 +16,7 @@ int result = 0;
 
 
 // Ans given below 
-
+...............................................................................
 
 if(x>y && x>z) {
 	result=x;
@@ -29,9 +31,7 @@ else{
 	System.out.print(result);
 }
 
-
-
-/////////////////////////////////////
+...............................................................................
 
 
 
