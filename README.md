@@ -24,6 +24,8 @@ step 4 :  Check the code
         if the result is passed simply click submit!!!                                         
       (or)                                         
         if shown wrong answer, inform me on discussion section                                         
-        is top top of this page.                                               
+        is top top of this page.      
+
+NOTE: IF YOU WANT TO RUN THIS CODE ON YOUR IDE PLEASE ERASE SOME DOTED LINES IN CODE FILE                                         
                                           
  Thanks! for visit :)
