@@ -1,7 +1,7 @@
 Week 2 : Programming Assignment 1
 
 QN : Complete the code segment to call the method  print() of class Student first and then call print() method of class School.
-­­
+Â­Â­
 ...............................................................................
 
 // This is the class named School
@@ -40,8 +40,8 @@ public class Question21{
 ...................................................
 NOTE : This will show some presentation error.
 	  But you will get passed status.
-	  Reason : error occurred in main method when 		  	 	  printing ,thats can't able to change in this code, 
-	  If we have any possiblities to fix this error we can 	  	  update this specific code file
+	  Reason : error occurred in main method when printing ,thats can't able to change in this code, 
+	  If we have any possiblities to fix this error we can update this specific code file
 ...............................................................................
 
 
