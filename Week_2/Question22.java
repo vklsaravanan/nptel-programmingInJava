@@ -1,7 +1,7 @@
 Week 2 : Programming Assignment 2
 
 QN : Complete the code segment to call the method  print() of class given class Printer to print the following.
-­­
+Â­Â­
 ...............................................................................
 
 // This is the class named Printer
@@ -31,10 +31,8 @@ classPrinter.print();
 ...................................................
 NOTE : This will show some presentation error.
 	  But you will get passed status.
-	  Reason : error occurred in main method when 		  	 	  printing ,thats can't able to change in this code, 
-	  If we have any possiblities to fix this error we can 	  	  update this specific code file
-
-
+	  Reason : error occurred in main method when printing ,thats can't able to change in this code, 
+	  If we have any possiblities to fix this error we can update this specific code file
 ...............................................................................
 
 
