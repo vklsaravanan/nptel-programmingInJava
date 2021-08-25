@@ -1,6 +1,6 @@
 
-<img src="https://user-images.githubusercontent.com/70447974/130724593-202975e2-d068-4e14-a460-3b27a1954c94.png" alt="nptel"  width="128" height="35"  > - Programming In Java
-<br>
+<img src="https://user-images.githubusercontent.com/70447974/130724593-202975e2-d068-4e14-a460-3b27a1954c94.png" alt="nptel"  width="128" height="35"  > <br>
+# Programming In Java 
 ## [WEEK 1](https://github.com/vklsaravanan/nptel-programmingInJava/tree/main/Week_1)
 <a href="https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_1/Exercise1_1.java">Exercise1_1</a> - Complete the code segment to find the perimeter and area of a circle given a value of radius.<br>
 <a href="https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_1/Exercise1_2.java">Exercise1_2</a> - Complete the code segment to find the largest among three numbers x,y, and z. You should use if-then-else construct in Java.<br>
