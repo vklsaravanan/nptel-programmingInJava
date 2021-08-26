@@ -1,9 +1,7 @@
 //Week 3 : Programming Assignment 4
 
-/*QN : A class Shape is defined with two overloading constructors in it. Another class Test1 is partially 
- *    defined which inherits the class Shape. The class Test1 should include two overloading constructors as 
- *    appropriate for some object instantiation shown in main() method. You should define the constructors using the super class constructors. 
- *    Also, override the method calculate( ) in Test1 to calculate the volume of a Shape.*/
+/*QN : This program to exercise the call of static and non-static methods. 
+  A partial code is given defining two methods, namely sum( ) and multiply ( ). You...,.*/
 
 //...............................................................................
 
