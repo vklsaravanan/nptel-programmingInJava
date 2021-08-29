@@ -14,18 +14,19 @@ public class Question42 {
   /*Answer is given below for --+ NPTEL +--
 ...............................................................................*/
 
-  java.util.Calendar calendar; //using java.util.. Because there is not imported java.util.. packages
+  java.util.Calendar calendarObj; //using java.util.. Because there is not imported java.util.. packages
     //so we can't call directly, Simply use java.util.Calender to call Calender class
-    calendar = java.util.Calendar.getInstance(); 
+    calendarObj = java.util.Calendar.getInstance(); 
   
-    year=calendar.get(java.util.Calendar.YEAR);
+    year=calendarObj.get(java.util.Calendar.YEAR);
     
 //...............................................................................
     // Print the current Year
 		System.out.println("Current Year: "+year);
 /*    ~~~THERE IS SOME INVISIBLE CODE HERE~~~
       That code is :                               */
-    System.out.print("Current Month: "+calendar.get(java.util.Calendar.MONTH));
+   java.util.Calendar objName=java.util.Calendar.getInstance(); 
+   System.out.print("Current Month: "+objName.get(java.util.Calendar.MONTH));
     //you don't need to find this code on nptel, 
     //just know this a little bit
     
