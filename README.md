@@ -24,6 +24,7 @@
 
 ## [WEEK 4](https://github.com/vklsaravanan/nptel-programmingInJava/tree/main/Week_4)
 [Exercise4_1](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_4/Question41.java) - Complete the code segment to execute the following program successfully. You should import the correct package(s) and/or class(s) to complete the code.<br>
+[Exercise4_2](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_4/Question42.java) - Complete the code segment to print the current year. Your code should compile successfully.<br>
 
 ##      
 >Author [@vklsaravanan](https://github.com/vklsaravanan)
