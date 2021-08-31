@@ -22,7 +22,7 @@ class Small extends Medium implements ExtraLarge{ //add 'implements ExtraLarge'
     }
 
 	public void display() {              //create override method
-	System.out.print("This is extra-large");
+	System.out.print(extra);
   }
 }
  
@@ -31,6 +31,6 @@ class Question43{
         Small s = new Small();
      // remove unused object 'Question43 q = new Question43();' 
       s.Print();   
-	  s.display();  //change object name q to s
+	s.display();  //change object name q to s
     }
 }
