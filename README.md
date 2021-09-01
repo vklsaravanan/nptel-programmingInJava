@@ -25,6 +25,9 @@
 ## [WEEK 4](https://github.com/vklsaravanan/nptel-programmingInJava/tree/main/Week_4)
 [Exercise4_1](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_4/Question41.java) - Complete the code segment to execute the following program successfully. You should import the correct package(s) and/or class(s) to complete the code.<br>
 [Exercise4_2](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_4/Question42.java) - Complete the code segment to print the current year. Your code should compile successfully.<br>
+[Exercise4_3](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_4/Question43.java) - The program in this assignment is attempted to print the following output:<br>
+[Exercise4_4](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_4/Question44.java) - Complete the code segment to call the default method in the interface First and Second.<br>
+[Exercise4_5](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_4/Question45.java) - Modify the code segment to print the following output.<br>
 ##
 <p align="center">
   <a href="https://github.com/vklsaravanan/nptel-programmingInJava/archive/refs/heads/main.zip"><img  src="https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/logs/icons8-zip-48.png" width="40" height="40" />Download all files as zip</a>
