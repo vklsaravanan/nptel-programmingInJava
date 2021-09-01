@@ -28,6 +28,12 @@
 [Exercise4_3](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_4/Question43.java) - The program in this assignment is attempted to print the following output:<br>
 [Exercise4_4](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_4/Question44.java) - Complete the code segment to call the default method in the interface First and Second.<br>
 [Exercise4_5](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_4/Question45.java) - Modify the code segment to print the following output.<br>
+
+## [WEEK 5](https://github.com/vklsaravanan/nptel-programmingInJava/tree/main/Week_5)
+[Exercise5_1](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_5/Question5_1.java) - An interface Number is defined in the following program.  You have to declare a class A,which will implement the interface Number. Note that the method findSqr(n) will return the square of the number n.<br>
+[Exercise5_3](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_5/Question5_3.java) - Complete the code segment to catch the ArithmeticException in the following, if any. On the occurrence of such an exception, your program should print “Exception caught: Division by zero.” If there is no such exception, it will print the result of division operation on two integer values.<br>
+[Exercise5_4](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_5/Question5_4.java) - In the following program, an array of integer data to be initialized. During the initialization, if a user enters a value other than integer value, then it will throw InputMismatchException..,<br>
+
 ##
 <p align="center">
   <a href="https://github.com/vklsaravanan/nptel-programmingInJava/archive/refs/heads/main.zip"><img  src="https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/logs/icons8-zip-48.png" width="40" height="40" />Download all files as zip</a>
