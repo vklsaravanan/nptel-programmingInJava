@@ -33,6 +33,7 @@
 [Exercise5_1](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_5/Question5_1.java) - An interface Number is defined in the following program.  You have to declare a class A,which will implement the interface Number. Note that the method findSqr(n) will return the square of the number n.<br>
 [Exercise5_3](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_5/Question5_3.java) - Complete the code segment to catch the ArithmeticException in the following, if any. On the occurrence of such an exception, your program should print “Exception caught: Division by zero.” If there is no such exception, it will print the result of division operation on two integer values.<br>
 [Exercise5_4](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_5/Question5_4.java) - In the following program, an array of integer data to be initialized. During the initialization, if a user enters a value other than integer value, then it will throw InputMismatchException..,<br>
+[Exercise5_5](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_5/Question5_5.java) - In the following program, there may be multiple exceptions. You have to complete the code using only one try-catch block to handle all the possible exceptions.<br>
 
 ##
 <p align="center">
