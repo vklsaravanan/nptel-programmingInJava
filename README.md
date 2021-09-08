@@ -6,7 +6,7 @@
 <a href="https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_1/Exercise1_3.java">Exercise1_3</a> - Consider First n even numbers starting from zero(0).Complete the code segment to calculate sum of  all the numbers divisible by 3 from 0 to n. Print the sum.
 <br>
 <a href="https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_1/Exercise1_4.java">Exercise1_4</a> - Complete the code segment to check whether the number is an Armstrong number or not.<br>
-<a href="https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_1/Exercise1_6.java">Exercise1_5</a> - Complete the code segment to help Ragav , find the highest mark and average mark secured by him in "s" number of subjects.<br>
+<a href="https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_1/Exercise1_5.java">Exercise1_5</a> - Complete the code segment to help Ragav , find the highest mark and average mark secured by him in "s" number of subjects.<br>
 
 ## [WEEK 2](https://github.com/vklsaravanan/nptel-programmingInJava/tree/main/Week_2)
 <a href="https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_2/Question21.java">Exercise2_1</a> - Complete the code segment to call the method  print() of class Student first and then call print() method of class School.<br>
@@ -31,9 +31,14 @@
 
 ## [WEEK 5](https://github.com/vklsaravanan/nptel-programmingInJava/tree/main/Week_5)
 [Exercise5_1](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_5/Question5_1.java) - An interface Number is defined in the following program.  You have to declare a class A,which will implement the interface Number. Note that the method findSqr(n) will return the square of the number n.<br>
+[Exercise5_2](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_5/Question5_1.java) - An interface Number is defined in the following program.  You have to declare a class A,which will implement the interface Number. Note that the method findSqr(n) will return the square of the number n.<br>
 [Exercise5_3](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_5/Question5_3.java) - Complete the code segment to catch the ArithmeticException in the following, if any. On the occurrence of such an exception, your program should print “Exception caught: Division by zero.” If there is no such exception, it will print the result of division operation on two integer values.<br>
 [Exercise5_4](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_5/Question5_4.java) - In the following program, an array of integer data to be initialized. During the initialization, if a user enters a value other than integer value, then it will throw InputMismatchException..,<br>
 [Exercise5_5](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_5/Question5_5.java) - In the following program, there may be multiple exceptions. You have to complete the code using only one try-catch block to handle all the possible exceptions.<br>
+
+## [WEEK 6](https://github.com/vklsaravanan/nptel-programmingInJava/tree/main/Week_6)
+[Exercise6_1](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_6/Question61.java) - Complete the code segment to print the following using the concept of extending the Thread class in Java:<br>
+[Exercise6_2](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_6/Question62.java) - In the following program, a thread class Question62 is created using the Runnable interface Complete the main() to create a thread object of the class Question62 and run the thread. It should print the output as given below.<br>
 
 ##
 <p align="center">
