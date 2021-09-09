@@ -46,6 +46,7 @@ Name of thread 't2':Thread-1<br>
 New name of thread 't1':Week 6 Assignment Q5<br>
 New name of thread 't2':Week 6 Assignment Q5 New<br>
 ------------------------------------------------- <br>
+[Exercise6_4](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_6/PairWorker.java) - Execution of two or more threads occurs in a random order. The keyword 'synchronized' in Java is used to control the execution of thread ..,<br>
 [Exercise6_5](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_6/Question65.java) - In the following program, a thread class Question62 is created using the Runnable interface Complete the main() to create a thread object of the class Question62 and run the thread. It should print the output as given below.<br>
 
 
