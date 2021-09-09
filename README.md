@@ -39,12 +39,12 @@
 ## [WEEK 6](https://github.com/vklsaravanan/nptel-programmingInJava/tree/main/Week_6)
 [Exercise6_1](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_6/Question61.java) - Complete the code segment to print the following using the concept of extending the Thread class in Java:<br>
 [Exercise6_2](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_6/Question62.java) - In the following program, a thread class Question62 is created using the Runnable interface Complete the main() to create a thread object of the class Question62 and run the thread. It should print the output as given below.<br>
-[Exercise6_3](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_6/Question63.java) - Given a snippet of code, add necessary codes to print the following:
------------------OUTPUT-------------------
-Name of thread 't1':Thread-0
-Name of thread 't2':Thread-1
-New name of thread 't1':Week 6 Assignment Q5
-New name of thread 't2':Week 6 Assignment Q5 New
+[Exercise6_3](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_6/Question63.java) - Given a snippet of code, add necessary codes to print the following:<br>
+-----------------OUTPUT-------------------<br>
+Name of thread 't1':Thread-0<br>
+Name of thread 't2':Thread-1<br>
+New name of thread 't1':Week 6 Assignment Q5<br>
+New name of thread 't2':Week 6 Assignment Q5 New<br>
 ------------------------------------------------- <br>
 [Exercise6_5](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_6/Question65.java) - In the following program, a thread class Question62 is created using the Runnable interface Complete the main() to create a thread object of the class Question62 and run the thread. It should print the output as given below.<br>
 
