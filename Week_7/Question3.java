@@ -15,12 +15,12 @@ public class Question3 {
          
 /*   Answer is given below for --+ NPTEL +--
 ...............................................................................*/
-         
+      '''   
    // Used 'String(byte[] bytes, int offset, int length)' Constructor 
 
     String barrString = new String(barr, n, 1 );
     System.out.print((barr[n])+"\n"+barrString); }
-      
+      '''
 //...............................................................................
       catch (Exception e){
 	    System.out.println("exception occur");
