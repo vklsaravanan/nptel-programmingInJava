@@ -51,6 +51,8 @@ New name of thread 't2':Week 6 Assignment Q5 New<br>
 
 ## [WEEK 7](https://github.com/vklsaravanan/nptel-programmingInJava/tree/main/Week_7)
 [Exercise7_1](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_7/Question1.java) - Complete the following code fragment to read three integer values from the keyboard and find the sum of the values. Declare a variable "sum" of type int and store the result in it.<br>
+[Exercise7_2](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_7/Question2.java) - Complete the code segment to catch the exception in the following, if any. On the occurrence of such an exception, your program should print “Please enter valid data” .If there is no such exception, it will print the "square of the number".<br>
+
 ##
 <p align="center">
   <a href="https://github.com/vklsaravanan/nptel-programmingInJava/archive/refs/heads/main.zip"><img  src="https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/logs/icons8-zip-48.png" width="40" height="40" />Download all files as zip</a>
