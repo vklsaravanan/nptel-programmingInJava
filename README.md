@@ -49,7 +49,8 @@ New name of thread 't2':Week 6 Assignment Q5 New<br>
 [Exercise6_4](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_6/PairWorker.java) - Execution of two or more threads occurs in a random order. The keyword 'synchronized' in Java is used to control the execution of thread ..,<br>
 [Exercise6_5](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_6/Question65.java) - In the following program, a thread class Question62 is created using the Runnable interface Complete the main() to create a thread object of the class Question62 and run the thread. It should print the output as given below.<br>
 
-
+## [WEEK 7](https://github.com/vklsaravanan/nptel-programmingInJava/tree/main/Week_7)
+[Exercise7_1](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_7/Question1.java) - Complete the following code fragment to read three integer values from the keyboard and find the sum of the values. Declare a variable "sum" of type int and store the result in it.<br>
 ##
 <p align="center">
   <a href="https://github.com/vklsaravanan/nptel-programmingInJava/archive/refs/heads/main.zip"><img  src="https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/logs/icons8-zip-48.png" width="40" height="40" />Download all files as zip</a>
