@@ -54,6 +54,8 @@ New name of thread 't2':Week 6 Assignment Q5 New<br>
 [Exercise7_2](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_7/Question2.java) - Complete the code segment to catch the exception in the following, if any. On the occurrence of such an exception, your program should print “Please enter valid data” .If there is no such exception, it will print the "square of the number".<br>
 [Exercise7_3](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_7/Question3.java) - A byte char array is initialized. You have to enter an index value"n". According to index your program will print the byte and its corresponding char value.
 Complete the code segment to catch the exception in the..,<br>
+[Exercise7_4](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_7/Question4.java) - The following program reads a string from the keyboard and is stored in the String variable "s1"..,<br>
+[Exercise7_5](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_7/Question5.java) -A string "s1" is already initialized. You have to read the index "n"  from..,<br>
 
 ##
 <p align="center">
