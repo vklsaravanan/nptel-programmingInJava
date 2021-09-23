@@ -21,7 +21,6 @@ public class Pattern2 {
         Scanner inr = new Scanner(System.in);
 	    int l = inr.nextInt();
         // Add the necessary code in the below space
-//__________________________________________________
       
 	    int lTemp=l-1;
 	    
