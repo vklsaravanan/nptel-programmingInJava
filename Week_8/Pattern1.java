@@ -19,6 +19,9 @@ public class Pattern1 {
 	   int n = inr.nextInt();
 //____________________________________________________
       
+  if(n<=0){
+        System.out.print(0);}
+      else{
       for(int i=1; i<=n; i++) {
        int k=0;
         for(int j=1; j<=(n-i); j++) {
@@ -29,6 +32,6 @@ public class Pattern1 {
             k++;
         }
         System.out.println();}
-    System.out.println(n*n);
+    System.out.println(n*n);}
     }
 }
