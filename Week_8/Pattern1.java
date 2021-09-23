@@ -17,7 +17,6 @@ public class Pattern1 {
     public static void main(String[] args) {
         Scanner inr = new Scanner(System.in);
 	   int n = inr.nextInt();
-//____________________________________________________
       
   if(n<=0){
         System.out.print(0);}
