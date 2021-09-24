@@ -65,7 +65,7 @@ Complete the code segment to catch the exception in the..,<br>
 [Exercise8_5](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_8/Pattern5.java) - Write a program to display any digit(n) from 0-9 represented as a "7 segment  display". <br>
 
 ## [WEEK 9](https://github.com/vklsaravanan/nptel-programmingInJava/tree/main/Week_9)<br>
-[Exercise8_1](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_9/Question91.java) - Complete the code to develop a BASIC CALCULATOR that can perform operations like Addition, Subtraction, Multiplication and Division.<br>
+[Exercise9_1](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_9/Question91.java) - Complete the code to develop a BASIC CALCULATOR that can perform operations like Addition, Subtraction, Multiplication and Division.<br>
 
 ##
 <p align="center">
