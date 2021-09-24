@@ -57,6 +57,16 @@ Complete the code segment to catch the exception in the..,<br>
 [Exercise7_4](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_7/Question4.java) - The following program reads a string from the keyboard and is stored in the String variable "s1"..,<br>
 [Exercise7_5](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_7/Question5.java) -A string "s1" is already initialized. You have to read the index "n"  from..,<br>
 
+## [WEEK 8](https://github.com/vklsaravanan/nptel-programmingInJava/tree/main/Week_8)<br>
+[Exercise8_1](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_8/Pattern1.java) - Write a program which will print a pyramid of "*" 's of height "n" and print the number of "*" 's in the pyramid.<br>
+[Exercise8_2](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_8/Pattern2.java) - Write a program which will print a pascal  pyramid of  "*" 's of height "l" .<br>
+[Exercise8_3](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_8/Pattern3.java) - Write a program which will print a pyramid of "numbers" 's of height "n" and print the sum of all number's in the pyramid.<br>
+[Exercise8_4](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_8/Pattern4.java) - Write a program to print symmetric Pascal's triangle of "*" 's of  height "l" of odd length . If input "l" is even then your program will print "Invalid line number".<br>
+[Exercise8_5](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_8/Pattern5.java) - Write a program to display any digit(n) from 0-9 represented as a "7 segment  display". <br>
+
+## [WEEK 9](https://github.com/vklsaravanan/nptel-programmingInJava/tree/main/Week_9)<br>
+[Exercise8_1](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_9/Question91.java) - Complete the code to develop a BASIC CALCULATOR that can perform operations like Addition, Subtraction, Multiplication and Division.<br>
+
 ##
 <p align="center">
   <a href="https://github.com/vklsaravanan/nptel-programmingInJava/archive/refs/heads/main.zip"><img  src="https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/logs/icons8-zip-48.png" width="40" height="40" />Download all files as zip</a>
