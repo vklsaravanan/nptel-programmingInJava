@@ -66,6 +66,10 @@ Complete the code segment to catch the exception in the..,<br>
 
 ## [WEEK 9](https://github.com/vklsaravanan/nptel-programmingInJava/tree/main/Week_9)<br>
 [Exercise9_1](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_9/Question91.java) - Complete the code to develop a BASIC CALCULATOR that can perform operations like Addition, Subtraction, Multiplication and Division.<br>
+[Exercise9_2](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_9/Question92.java) - Complete the code to develop an ADVANCED CALCULATOR that emulates all the functions of the GUI Calculator as shown in the image.<br>
+[Exercise9_3](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_9/Question93.java) - Complete the code to perform a 45 degree anti clock wise rotation with respect to the center of a 5 × 5 2D Array as shown below:<br>
+[Exercise9_4](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_9/Question94.java) - A program needs to be developed which can mirror reflect any 5 × 5 2D character array into its side-by-side reflection. Write suitable code to achieve this transformation as shown below:<br>
+[Exercise9_5](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_9/Question95.java) - Write suitable code to develop a 2D Flip-Flop Array with dimension 5 × 5, which replaces all input elements with values 0 by 1 and 1 by 0. An example is shown below:<br>
 
 ##
 <p align="center">
