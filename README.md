@@ -71,6 +71,14 @@ Complete the code segment to catch the exception in the..,<br>
 [Exercise9_4](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_9/Question94.java) - A program needs to be developed which can mirror reflect any 5 × 5 2D character array into its side-by-side reflection. Write suitable code to achieve this transformation as shown below:<br>
 [Exercise9_5](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week_9/Question95.java) - Write suitable code to develop a 2D Flip-Flop Array with dimension 5 × 5, which replaces all input elements with values 0 by 1 and 1 by 0. An example is shown below:<br>
 
+## [WEEK 10](https://github.com/vklsaravanan/nptel-programmingInJava/tree/main/Week__10)<br>
+[Exercise10_1](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week__10/Question101.java) - The following code needs some package to work properly. Write appropriate code to import the required package(s) in order to make the program compile and execute successfully.<br>
+[Exercise10_2](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week__10/Question102.java) - Write the JDBC codes needed to create a Connection interface using the DriverManager class and the variable DB_URL.  Check whether the connection is successful using 'isAlive(timeout)<br>
+[Exercise10_3](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week__10/Question103.java) - Due to some mistakes in the below code, the code is not compiled/executable. Modify and debug the JDBC code to make it execute successfully.<br>
+[Exercise10_4](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week__10/Question104.java) - Complete the code segment to rename an already created table named ‘PLAYERS’ into ‘SPORTS’.<br>
+[Exercise10_5](https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/Week__10/Question105.java) - Complete the code segment to rename an already created table named ‘PLAYERS’ into ‘SPORTS’.<br>
+
+
 ##
 <p align="center">
   <a href="https://github.com/vklsaravanan/nptel-programmingInJava/archive/refs/heads/main.zip"><img  src="https://github.com/vklsaravanan/nptel-programmingInJava/blob/main/logs/icons8-zip-48.png" width="40" height="40" />Download all files as zip</a>
